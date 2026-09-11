@@ -1,0 +1,14 @@
+4.php artisan key:generate
+2. Npm install
+1. Composer install
+3. copy .env.example .env
+5. php artisan migrate
+6. php artisan db:seed
+7. npm run dev
+8. php artisan  serve
+php artisan storage:link
+
+composer install --ignore-platform-reqs
+composer clear-cache
+composer install
+php artisan key:generate
